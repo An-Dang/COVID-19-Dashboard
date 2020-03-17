@@ -2,6 +2,8 @@
 
 This repository is focusing on the recovered cases from COVID-19 pandemic.
 
+You can find all the interactive Plots [here](https://github.com/An-Dang/COVID-19-Recovery-Dashboard/tree/master/html-graphs) as HTML-File.
+
 ---
 ## Data
 
