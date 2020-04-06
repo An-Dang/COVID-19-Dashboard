@@ -6,3 +6,5 @@ notebook/.DS_Store
 .DS_Store
 
 notebook/.ipynb_checkpoints/
+
+.idea/
